@@ -9,6 +9,6 @@ class addition
 		system.out.println("enter second number value");
 		num2=s.nextint( );
 		res=num1+num2;
-		system.out.println("result is "+res);
+		system.out.println("result is a integer"+res);
 	}
 }
